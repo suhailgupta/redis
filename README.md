@@ -15,6 +15,24 @@ This series focuses on:
 
 ---
 
+## 📁 Repository Structure
+
+This repository is organized in two parts:
+
+### 📘 Day-wise Notes
+- Each day has its **own folder** containing detailed notes.
+- These notes correspond to the topics covered in that specific session.
+- Navigate to the respective `day-xx` folder for explanations, diagrams, and references.
+
+### 💻 Common Codebase
+- The **codebase is shared across the entire series**.
+- All live coding, examples, and projects are implemented in a **single common codebase**.
+- Code evolves incrementally as the series progresses.
+
+> 👉 **Notes are day-wise. Code is common and cumulative.**
+
+---
+
 ## 📌 What You’ll Learn
 - How Redis actually works internally
 - When and why Redis is used in real systems
