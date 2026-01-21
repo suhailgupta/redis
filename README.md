@@ -53,6 +53,15 @@ This repository is organized in two parts:
 
 ---
 
+### **Day 2: Redis Installation & Setup**
+- Installing Redis locally
+- Running Redis using Docker
+- Redis CLI basics
+- Connecting to Redis
+- Basic commands walkthrough
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - Redis
