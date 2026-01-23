@@ -62,6 +62,14 @@ This repository is organized in two parts:
 
 ---
 
+### **Day 3: Redis Java Setup **
+- Java Redis Libraries
+- How we can connect Java App to Redis.
+- Writing KV Test case in Java
+- Verify on Redis by running Tests in Java
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - Redis
